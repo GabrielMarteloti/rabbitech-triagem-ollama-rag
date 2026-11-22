@@ -10,4 +10,4 @@ Teste técnico RabbITech – Semana 2. Projeto (sem implementação) de um assis
 | 📚 Base de conhecimento (FAQ fornecido) | [base/faq_interno.md](base/faq_interno.md) |
 | 🎥 Apresentação em vídeo | [inserir link do YouTube] |
 
-Autor: Gustavo [Sobrenome] · Novembro de 2026
+Autor: Gabriel Marteloti · Novembro de 2026
