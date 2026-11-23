@@ -8,6 +8,6 @@ Teste técnico RabbITech – Semana 2. Projeto (sem implementação) de um assis
 | 🔀 Fluxograma | [imagem](fluxograma/fluxograma.png) · [versão Mermaid](fluxograma/fluxograma.md) |
 | 🧩 Pseudocódigo | [pseudocodigo.md](pseudocodigo.md) |
 | 📚 Base de conhecimento (FAQ fornecido) | [base/faq_interno.md](base/faq_interno.md) |
-| 🎥 Apresentação em vídeo | [[inserir link do YouTube]](https://youtu.be/DYXFIGicGO8) |
+| 🎥 Apresentação em vídeo | (https://youtu.be/DYXFIGicGO8) |
 
 Autor: Gabriel Marteloti · Novembro de 2026
