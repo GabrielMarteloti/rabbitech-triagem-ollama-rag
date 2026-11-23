@@ -4,7 +4,7 @@ Teste técnico RabbITech – Semana 2. Projeto (sem implementação) de um assis
 
 | Conteúdo | Arquivo |
 |---|---|
-| 📄 Documento oficial (justificativa técnica, riscos, estimativa, Uso de IA) | [documento/projeto-triagem.pdf](documento/projeto-triagem.pdf) |
+| 📄 Documento oficial (justificativa técnica, riscos, estimativa, Uso de IA) | [documento/Projeto_Triagem_RabbITech_ABNT.pdf](documento/Projeto_Triagem_RabbITech_ABNT.pdf) |
 | 🔀 Fluxograma | [imagem](fluxograma/fluxograma.png) · [versão Mermaid](fluxograma/fluxograma.md) |
 | 🧩 Pseudocódigo | [pseudocodigo.md](pseudocodigo.md) |
 | 📚 Base de conhecimento (FAQ fornecido) | [base/faq_interno.md](base/faq_interno.md) |
